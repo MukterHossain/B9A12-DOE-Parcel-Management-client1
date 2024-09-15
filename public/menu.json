@@ -1,0 +1,28 @@
+[
+    { "id" : 1,
+      "icon": "https://i.ibb.co/m99z77H/safety.png",
+      "title": "Parcel Safety",
+      "description": "We prioritize the safety of your parcels with secure packaging and reliable delivery methods.",
+      "total-booked": "21500",
+      "total-delivered": "21500",
+      "total-Use": "21500"
+    },
+    {
+        "id" : 2,
+      "icon": "https://i.ibb.co/wSgzbRT/fast-delevery.png",
+      "title": "Super Fast Delivery",
+      "description": "Experience swift and efficient delivery services, ensuring your parcels reach their destination in record time.",
+      "totalBooked": "22100",
+      "totalDelivered": "35500",
+      "totalUse": "35000"
+    },
+    {
+        "id" : 3,
+      "icon": "https://i.ibb.co/t2LS7bx/location-1.png",
+      "title": "Real-Time Tracking",
+      "description": "Track your parcels in real-time, allowing you to monitor their journey from pickup to delivery with precision.",
+      "total-booked": "18500",
+      "total-delivered": "20500",
+      "total-Use": "19100"
+    }
+  ]
